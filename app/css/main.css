@@ -5,3 +5,25 @@ GENERAL
 body {
   background-color: #efefef;
 }
+
+
+/*
+HEADER
+*/
+
+header {
+  background-image: url(/images/header-image-1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo img {
+  background-color: white;
+  max-width: 175px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 3px 3px 3px 1.5px #343434;
+  position: relative;
+  top: 10px;
+}

@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   MorphZero is a family game company. Our goal is to have fun and make some cool games.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.morphzero.com" # the base hostname & protocol for your site
-twitter_username: @morphzero
+twitter_username: morphzero
 github_username:  k80bowman
 
 # Build settings
